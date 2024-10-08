@@ -1,0 +1,21 @@
+molecule	gene	start 	end	strand	 direction
+19A CPS	dexB	1	1608	forward	+
+19A CPS	IS630-orf2	2271	1933	reverse	-
+19A CPS	IS630-orf1	2796	2449	reverse	-
+19A CPS	wzg	3008	4453	forward	+
+19A CPS	wzh	4455	5186	forward	+
+19A CPS	wzd	5195	5887	forward	+
+19A CPS	wze	5897	6586	forward	+
+19A CPS	wchA	6601	7962	forward	+
+19A CPS	wchO	7968	8711	forward	+
+19A CPS	wchP	8708	9532	forward	+
+19A CPS	wchQ	9534	10412	forward	+
+19A CPS	wzy	10413	11747	forward	+
+19A CPS	wzx	11775	13199	forward	+
+19A CPS	mnaA	13219	14352	forward	+
+19A CPS	rmlA	14515	15384	forward	+
+19A CPS	rmlC	15385	15978	forward	+
+19A CPS	rmlB	15990	17039	forward	+
+19A CPS	rmlD	17105	17956	forward	+
+19A CPS	glf	18126	19121	forward	+
+19A CPS	aliA	19442	21424	forward	+
